@@ -2,7 +2,8 @@ import React from 'react';
 import { render } from 'react-dom';
 import { BrowserRouter, Match, Miss } from 'react-router';
 
-import './css/style.css';
+import './css/bootstrap.css';
+import './css/blog-post.css';
 import App from './components/App';
 import Blog from './components/Blog';
 import NotFound from './components/NotFound';
